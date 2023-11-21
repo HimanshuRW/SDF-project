@@ -49,7 +49,7 @@ typedef struct people people;
 
 int length = 7;
 int direction = RIGHT;
-int score = 12;
+int score = 0;
 char player_name[40];
 char player_game_name[40];
 coordinate body[MAX_LENGHT];
