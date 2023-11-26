@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(){
-    for(int i =1; i<300; i++){
-        printf("%d -> %c\n",i,i);
-    }
-}
