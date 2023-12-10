@@ -6,7 +6,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#define MAX_LENGHT 60
+#define MAX_LENGHT 50
 #define LEADER_BOARD_TOP 60
 #define PLAYERS_MAX 100
 #define MAX_LENGHT 60
